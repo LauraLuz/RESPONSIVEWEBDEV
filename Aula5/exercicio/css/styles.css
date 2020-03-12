@@ -1,0 +1,17 @@
+body{
+  background-color: #318E91;
+}
+#ex3{
+  font-family: Georgia, sans-serif;
+  font-style: italic;
+  font-size: 500;
+  color: white;
+
+
+}
+#ex4{
+ text-align: justify;
+ text-decoration: underline;
+ text-transform: uppercase;
+ letter-spacing: inherit;
+}

@@ -1,0 +1,35 @@
+@import "https://fonts.googleapis.com/css?family=Indie+Flower|Viaoda+Libre&display=swap";
+
+h1{
+  text-align: center;
+}
+#ex1{
+  font-family: arial, verdana, sans-serif;
+}
+#ex2{
+  font-family: "Courier New", monospace;
+  font-style: ;
+}
+#ex3 {
+  font-family: 'Baloo Chettan 2', cursive;
+  font-style: oblique;
+}
+#ex4{
+  font-family: 'Viaoda Libre', cursive;
+  font-style: italic;
+}
+#ex5{
+  font-family: 'Indie Flower', cursive;
+  font-style: bold;
+}
+span{
+  color: yellow;
+  text-decoration: underline;
+  text-decoration-color: green;
+}
+.exred{
+  color: red;
+}
+.exblue{
+  color: blue;
+}
